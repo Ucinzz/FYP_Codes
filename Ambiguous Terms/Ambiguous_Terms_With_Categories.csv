@@ -1,0 +1,69 @@
+﻿Ambiguous Term,Description of Ambiguity,Category
+and,"Can imply concurrency, sequence, or conjunction",Conjunctions and Logical Operators
+or,Can be exclusive or inclusive,Conjunctions and Logical Operators
+and/or,"Combines 'and' and 'or', inherently unclear",Conjunctions and Logical Operators
+all,Ambiguous scope: collective or individual,Quantifiers
+each,Ambiguity when combined with group actions,Quantifiers
+every,"Similar to 'each,' lacks precision in scope",Quantifiers
+some,Vague about quantity or subset,Quantifiers
+any,Can imply singularity or plurality,Quantifiers
+a,May imply singular or nonspecific object,Quantifiers
+several,Unclear count or subset,Quantifiers
+after,Ambiguous reference point,Temporal Terms
+before,Similar ambiguity to 'after',Temporal Terms
+next,Relative term without clear reference,Temporal Terms
+previous,Similar to 'next'; unclear sequence,Temporal Terms
+immediately,Vague temporal descriptor,Temporal Terms
+minimum,Unclear whether inclusive or exclusive,Comparative Terms
+maximum,Unclear whether inclusive or exclusive,Comparative Terms
+at least,Boundary inclusion unclear,Comparative Terms
+at most,Boundary inclusion unclear,Comparative Terms
+acceptable,"Subjective interpretation, lacks criteria",Descriptive Terms (Vagueness)
+accurate,Subjective or domain-dependent precision,Descriptive Terms (Vagueness)
+appropriate,"Context-specific, unclear intent",Descriptive Terms (Vagueness)
+easy,Subjective ease varies by user,Descriptive Terms (Vagueness)
+efficient,Unclear benchmarks for efficiency,Descriptive Terms (Vagueness)
+essential,Open to subjective interpretation,Descriptive Terms (Vagueness)
+feasible,Unclear feasibility criteria,Descriptive Terms (Vagueness)
+reasonable,Subjective; lacks objective benchmarks,Descriptive Terms (Vagueness)
+sufficient,Unclear sufficiency levels,Descriptive Terms (Vagueness)
+user-friendly,Subjective; unclear to all users,Descriptive Terms (Vagueness)
+optimal,Lacks precision in definition or use,Descriptive Terms (Vagueness)
+improved,Vague improvement measurement,Descriptive Terms (Vagueness)
+can,Uncertain capability or condition,Uncertainty Terms
+may,Ambiguous allowance or permission,Uncertainty Terms
+might,Unclear possibility or probability,Uncertainty Terms
+could,May imply hypothetical condition,Uncertainty Terms
+should,Unclear necessity or recommendation,Uncertainty Terms
+probably,Uncertain probability,Uncertainty Terms
+possibly,Vague likelihood,Uncertainty Terms
+usually,Unclear regularity,Uncertainty Terms
+rarely,Uncertain rarity,Uncertainty Terms
+sometimes,Unclear occasional nature,Uncertainty Terms
+include,Open-ended inclusion or partial list,Inclusion Terms
+such as,"Example, but unclear on completeness",Inclusion Terms
+not limited to,Ambiguous scope of inclusion,Inclusion Terms
+it,Unclear antecedent reference,Pronouns and Referential Terms
+they,Unclear antecedent reference,Pronouns and Referential Terms
+this,Context-dependent antecedent,Pronouns and Referential Terms
+that,Context-dependent antecedent,Pronouns and Referential Terms
+these,Context-dependent antecedent,Pronouns and Referential Terms
+those,Context-dependent antecedent,Pronouns and Referential Terms
+handle,Ambiguous action specification,Actions and Verbs
+process,Ambiguous process description,Actions and Verbs
+support,Unclear scope of support,Actions and Verbs
+manage,Unclear management action,Actions and Verbs
+allow,Ambiguous permissions,Actions and Verbs
+reject,Unclear rejection criteria,Actions and Verbs
+use,Vague usage description,Actions and Verbs
+not limited to,Uncertain or changing conditions,Negations
+does not,Ambiguous negation or condition,Negations
+no longer,Unclear exceptions or scope,Negations
+default,Unclear default conditions,General Words
+normal,Unclear baseline or standard,General Words
+standard,Ambiguous standardization,General Words
+generic,Generic term without clear specifics,General Words
+friendly,Context-dependent friendliness,Additional Context-Dependent Terms
+non-friendly,Context-dependent non-friendliness,Additional Context-Dependent Terms
+restricted,Ambiguous restriction criteria,Additional Context-Dependent Terms
+unknown,Unclear unknown or undefined context,Additional Context-Dependent Terms

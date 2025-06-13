@@ -1,0 +1,14 @@
+ID,Requirement,Kano Classification
+FR1,The system shall allow students to log in using their university credentials.,Must-be Quality
+FR2,"The system shall display the list of available courses for the upcoming semester, categorized by faculty and department.",Performance Quality
+FR3,"The system shall allow students to search for courses by course code, title, or instructor name.",Attractive Quality
+FR4,The system shall ensure that students cannot register for courses that conflict in schedule.,Must-be Quality
+FR5,The system shall notify students of prerequisites not met when attempting to register for a course.,Performance Quality
+FR6,"The system shall allow students to add, drop, or swap courses during the registration period.",Must-be Quality
+FR7,"The system shall provide a waitlist feature for fully enrolled courses, allowing students to join the course if a spot becomes available.",Attractive Quality
+FR8,The system shall display a visual timetable based on the registered courses.,Performance Quality
+FR9,The system shall send email notifications to students confirming successful registration or changes to their course enrollment.,Must-be Quality
+FR10,The system shall allow students to download a proof of enrollment document for their registered courses.,Attractive Quality
+FR11,The system shall provide an interface for academic advisors to review and approve student course selections if required.,Must-be Quality
+FR12,The system shall generate statistical reports on course enrollment numbers for administrative purposes.,Performance Quality
+FR13,"The system shall allow students to view the list of instructors teaching each course, including their contact information.",Attractive Quality
